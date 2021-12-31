@@ -22,17 +22,7 @@ TBD
 
 <br />
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/intoinside/ForestSaver/issues/10) in [intoinside/ForestSaver](https://github.com/intoinside/ForestSaver)
-2. ❗️ Opened issue [#28](https://github.com/intoinside/ForestSaver/issues/28) in [intoinside/ForestSaver](https://github.com/intoinside/ForestSaver)
-3. ❗️ Opened issue [#27](https://github.com/intoinside/ForestSaver/issues/27) in [intoinside/ForestSaver](https://github.com/intoinside/ForestSaver)
-4. ❗️ Closed issue [#24](https://github.com/intoinside/ForestSaver/issues/24) in [intoinside/ForestSaver](https://github.com/intoinside/ForestSaver)
-5. ❗️ Closed issue [#25](https://github.com/intoinside/ForestSaver/issues/25) in [intoinside/ForestSaver](https://github.com/intoinside/ForestSaver)
-<!--END_SECTION:activity-->
-
-<br />
+### Stats
 
 ![Intoinside's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true)
 
