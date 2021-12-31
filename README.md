@@ -6,14 +6,13 @@ TBD
 
 TBD
 
-### Connect with me
+### 📫 Connect with me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)][linkedin]
+[![Connect on Instagram](https://img.shields.io/badge/--instagram?label=instagram&logo=Instagram&style=social)][instagram]
+[![Connect on Facebook](https://img.shields.io/badge/--facebook?label=facebook&logo=Facebook&style=social)][facebook]
 
 <br />
-
----
 
 ### Language and tools
 
@@ -35,9 +34,8 @@ TBD
 
 <br />
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true)
+![Intoinside's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true)
 
 [instagram]: https://instagram.com/intoinside
 [linkedin]: https://linkedin.com/in/raffaele.intorcia
+[facebook]: https://www.facebook.com/raffaele.intorcia/
