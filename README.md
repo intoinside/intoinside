@@ -37,5 +37,5 @@ TBD
 ![Intoinside's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true)
 
 [instagram]: https://instagram.com/intoinside
-[linkedin]: https://linkedin.com/in/raffaele.intorcia
+[linkedin]: https://linkedin.com/in/raffaeleintorcia
 [facebook]: https://www.facebook.com/raffaele.intorcia/
