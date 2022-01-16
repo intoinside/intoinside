@@ -5,6 +5,7 @@
 ## I'm a Team Leader, Scrum Master, Indie Retrogame and Client/Web Software Developer!!
 - ✍ You can find my projects here [portfolio](https://intoinside.github.io/intoinside/)
 - 🔭 I’m currently working on my brand new c64 game [Forest Saver](https://github.com/intoinside/ForestSaver)
+- 🚀 Here my [gist](https://gist.github.com/intoinside)
 - 🌱 I’m currently learning C# and Java
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
