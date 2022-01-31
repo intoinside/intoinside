@@ -6,7 +6,7 @@
 - ✍ You can find my projects here [portfolio](https://intoinside.github.io/intoinside/)
 - 🔭 I’m currently working on my brand new c64 game [Forest Saver](https://github.com/intoinside/ForestSaver)
 - 🚀 Here my [gist](https://gist.github.com/intoinside)
-- 🌱 I'm currently majoring in C # and learning Java (making some <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ef/Enchanted_Golden_Sword.gif/revision/latest/scale-to-width-down/160?cb=20201118111854" style="height: 16px; width: 16px" /> Minecraft <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest/scale-to-width-down/160?cb=20201118111712" style="height: 16px; width: 16px" /> plugins)
+- 🌱 I'm currently majoring in C# and learning Java (making some <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ef/Enchanted_Golden_Sword.gif/revision/latest/scale-to-width-down/18?cb=20201118111854" style="height: 18px; width: 18px" /> Minecraft <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest/scale-to-width-down/18?cb=20201118111712" style="height: 18px; width: 18px" /> plugins)
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
