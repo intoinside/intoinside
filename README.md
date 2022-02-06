@@ -21,16 +21,10 @@
 <br />
 
 ### Language and tools
-
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/cpp/cpp.png" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/csharp/csharp.png" />
-<img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/assembly/assembly.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/sublime-text/sublime-text.png" /><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/github/github.png" />
-
-<img align="left" alt="Xmpp" width="26px" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/xmpp/xmpp.png" />
-
+<p align="left">
+<img alt="c" src="https://img.icons8.com/color/32/000000/c-programming.png"/><img alt="c++" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/><img alt="C#" src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/><img alt="Assembly" width="32" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/assembly/assembly.png" /><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/32/000000/visual-studio-code-2019.png"/><img alt="Sublime Text" src="https://img.icons8.com/fluency/32/000000/sublime-text.png"/><img alt="Git" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img alt="GitHub" src="https://img.icons8.com/material-sharp/32/000000/github.png"/><img alt="Xmpp" src="https://img.icons8.com/color/32/000000/xmpp.png"/>
+</p>
 <br />
 
 ### Stats
