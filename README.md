@@ -2,7 +2,7 @@
 
 <img src="https://cdn.dribbble.com/users/410907/screenshots/2044702/media/c19d0eee5490127923ca968ee333e7e5.gif" align="right" alt="GIF"  width='300' />
 
-## I'm a Team Leader, Scrum Master, Indie Retrogame and Client/Web Software Developer!!
+## I'm a Team Leader, Scrum Master, Indie Retrogame/Desktop Client/Web Software Developer!
 - ✍ You can find my projects here [portfolio](https://intoinside.github.io/intoinside/)
 - 🔭 I’m currently working on my brand new c64 game [Forest Saver](https://github.com/intoinside/ForestSaver)
 - 🚀 Here my [gist](https://gist.github.com/intoinside)
