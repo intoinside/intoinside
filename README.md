@@ -20,10 +20,11 @@
 [![Connect on Gitter](https://img.shields.io/badge/chat-on%20gitter-brightgreen)][gitter]
 <br />
 
-### Language and tools
+### Language, tools & frameworks
 <p align="left">
 <img alt="c" src="https://img.icons8.com/color/32/000000/c-programming.png"/><img alt="c++" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/><img alt="C#" src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/><img alt="Assembly" width="32" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/assembly/assembly.png" /><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/32/000000/visual-studio-code-2019.png"/><img alt="Sublime Text" src="https://img.icons8.com/fluency/32/000000/sublime-text.png"/><img alt="Git" src="https://img.icons8.com/color/32/000000/git.png"/>
 <img alt="GitHub" src="https://img.icons8.com/material-sharp/32/000000/github.png"/><img alt="Xmpp" src="https://img.icons8.com/color/32/000000/xmpp.png"/>
+<img alt="Scrum" src="https://img.icons8.com/external-soft-fill-juicy-fish/30/000000/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-19.png"/>
 </p>
 <br />
 
