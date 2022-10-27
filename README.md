@@ -19,17 +19,39 @@
 [![Connect on Gitter](https://img.shields.io/badge/chat-on%20gitter-brightgreen)][gitter]
 <br />
 
-### Language, tools & frameworks
-<p align="left">
-<img alt="c" src="https://img.icons8.com/color/32/000000/c-programming.png"/><img alt="c++" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/><img alt="C#" src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/><img alt="Assembly" width="32" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/assembly/assembly.png" /><img alt="Html" width="32" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/html/html.png" /><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/32/000000/visual-studio-code-2019.png"/><img alt="Sublime Text" src="https://img.icons8.com/fluency/32/000000/sublime-text.png"/><img alt="Git" src="https://img.icons8.com/color/32/000000/git.png"/>
-<img alt="GitHub" src="https://img.icons8.com/material-sharp/32/000000/github.png"/><img alt="Xmpp" src="https://img.icons8.com/color/32/000000/xmpp.png"/>
-<img alt="Scrum" src="https://img.icons8.com/external-soft-fill-juicy-fish/30/000000/external-agile-agile-development-soft-fill-soft-fill-juicy-fish-19.png"/>
+### Language, frameworks & tools
+
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-%23000000.svg?logo=c&logoColor=00599C" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%23000000.svg?logo=c%2B%2B&logoColor=4079EC" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23000000.svg?logo=c-sharp&logoColor=005070" />
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23000000.svg?logo=Assembly&logoColor=239120" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-%23000000.svg?logo=dart&logoColor=0175C2" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%23000000.svg?logo=Flutter&logoColor=02569B" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23000000.svg?logo=html5&logoColor=E34F26" />
+
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?logo=visual-studio&logoColor=5C2D91" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?logo=visual-studio-code&logoColor=0078d7" />
+  <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-%23000000.svg?logo=sublime-text&logoColor=important" />
+
+  <img alt="Git" src="https://img.shields.io/badge/GIT-%23000000.svg?logo=git&logoColor=F05033" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white" />
+
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=0078D6" />
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-000000?&logo=Linux%20Mint&logoColor=87CF3E" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?logo=ubuntu&logoColor=E95420" />
+
 </p>
+
 <br />
 
 ### Stats
 
-![Intoinside's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true&theme=dark&include_all_commits=true)
+<!--![intoinside's github trophy](https://github-profile-trophy.vercel.app/?username=intoinside&row=1)-->
+
+![Intoinside's GitHub stats](https://github-readme-stats.vercel.app/api?username=intoinside&show_icons=true&hide_border=true&theme=dark&include_all_commits=true)
+
+![Intoinside's github streak](https://streak-stats.demolab.com?user=intoinside&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 [instagram]: https://instagram.com/intoinside
 [linkedin]: https://linkedin.com/in/raffaeleintorcia
