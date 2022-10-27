@@ -29,21 +29,25 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%23000000.svg?logo=dart&logoColor=0175C2" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%23000000.svg?logo=Flutter&logoColor=02569B" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23000000.svg?logo=html5&logoColor=E34F26" />
+</p>
 
+<p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?logo=visual-studio&logoColor=5C2D91" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?logo=visual-studio-code&logoColor=0078d7" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-%23000000.svg?logo=sublime-text&logoColor=important" />
+</p>
 
+<p>
   <img alt="Git" src="https://img.shields.io/badge/GIT-%23000000.svg?logo=git&logoColor=F05033" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white" />
+</p>
 
+<p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=0078D6" />
   <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-000000?&logo=Linux%20Mint&logoColor=87CF3E" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?logo=ubuntu&logoColor=E95420" />
-
+  <img alt="Android" src="https://img.shields.io/badge/Android-000000?logo=android&logoColor=3DDC84" />
 </p>
-
-<br />
 
 ### Stats
 
