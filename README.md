@@ -24,7 +24,7 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-%23000000.svg?logo=c&logoColor=00599C" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%23000000.svg?logo=c%2B%2B&logoColor=4079EC" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23000000.svg?logo=c-sharp&logoColor=005070" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23000000.svg?logo=c-sharp&logoColor=239120" />
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23000000.svg?logo=Assembly&logoColor=239120" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%23000000.svg?logo=dart&logoColor=0175C2" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%23000000.svg?logo=Flutter&logoColor=02569B" />
@@ -38,8 +38,9 @@
 </p>
 
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/GIT-%23000000.svg?logo=git&logoColor=F05033" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-%23000000.svg?logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=181717" />
+  <img alt="CircleCi" src="https://img.shields.io/badge/CircleCi-%23000000.svg?logo=circleci&logoColor=343434" />
 </p>
 
 <p>
@@ -47,6 +48,16 @@
   <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-000000?&logo=Linux%20Mint&logoColor=87CF3E" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?logo=ubuntu&logoColor=E95420" />
   <img alt="Android" src="https://img.shields.io/badge/Android-000000?logo=android&logoColor=3DDC84" />
+  <img alt="RaspberryPi" src="https://img.shields.io/badge/RaspberryPi-000000?logo=raspberrypi&logoColor=C51A4A" />
+</p>
+
+### Language, frameworks & tools (i've used)
+<p>
+  <img alt="Delphi" src="https://img.shields.io/badge/Delphi-%23000000.svg?logo=delphi&logoColor=EE1F35" />
+  <img alt="Php" src="https://img.shields.io/badge/Php-%23000000.svg?logo=php&logoColor=00599C" />
+  <img alt="Erlang" src="https://img.shields.io/badge/Erlang-%23000000.svg?logo=erlang&logoColor=A90533" />
+  <img alt="MySql" src="https://img.shields.io/badge/MySql-%23000000.svg?logo=mysql&logoColor=4479A1" />
+  <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-%23000000.svg?logo=postgresql&logoColor=4169E1" />
 </p>
 
 ### Stats
