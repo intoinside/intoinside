@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source software
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ I speak 2 languages (Italian, English)
+- ⚡ I speak 2 languages (Italian, English) and learning Klingon (yI'el! Qapla'!)
 
 ### 📫 Connect with me
 
