@@ -51,6 +51,10 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=0078D6" />
 </p>
 
+### Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### Language, frameworks & tools (i've used)
 <p>
   <img alt="Delphi" src="https://img.shields.io/badge/Delphi-%23000000.svg?logo=delphi&logoColor=EE1F35" />
