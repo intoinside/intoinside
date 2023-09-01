@@ -3,7 +3,8 @@
 ## I'm a Team Leader, Scrum Master, Indie Retrogame and Client/Web Software Developer!!
 - ✍ You can check my [blog](https://intoinside.github.io/) or find my projects in my [portfolio](https://intoinside.github.io/intoinside/)
 - 🚀 Here my [gist](https://gist.github.com/intoinside)
-- 🌱 I'm currently majoring in C#, studying for Scrum™ PSD and working on [c128lib](https://github.com/c128lib)
+- 🌱 Majoring in C#, studying for Scrum™ PSD I, ProKanban PK I and Scrum™ PSK I
+- 👨‍💻 Working on [c128lib](https://github.com/c128lib)
 - 👯 I’m looking to collaborate on open source software
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
