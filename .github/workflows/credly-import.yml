@@ -1,0 +1,2 @@
+- name: Credly importer
+  uses: michaelcontento/credly-import-action@v1.0.2
