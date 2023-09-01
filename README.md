@@ -53,6 +53,7 @@
 
 ### Certifications
 <!--START_SECTION:badges-->
+[![Professional Scrum Master™ I (PSM I)](https://images.credly.com/size/110x110/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)](http://www.credly.com/badges/3892b935-812d-4389-8268-fbd2b76864eb "Professional Scrum Master™ I (PSM I)")
 <!--END_SECTION:badges-->
 
 ### Language, frameworks & tools (i've used)
