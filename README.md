@@ -54,6 +54,7 @@
 
 ### Certifications
 <!--START_SECTION:badges-->
+[![Professional Scrum Developer™ I (PSD I)](https://images.credly.com/size/110x110/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png)](http://www.credly.com/badges/1334f2ca-9928-4bcc-a8d0-320802363a89 "Professional Scrum Developer™ I (PSD I)")
 [![Professional Scrum Master™ I (PSM I)](https://images.credly.com/size/110x110/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)](http://www.credly.com/badges/3892b935-812d-4389-8268-fbd2b76864eb "Professional Scrum Master™ I (PSM I)")
 <!--END_SECTION:badges-->
 
