@@ -143,15 +143,174 @@
       "translate_metadata": false,
       "updated_at": "2021-11-19T02:54:58.807-06:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2023-09-04T10:35:12.701-05:00",
+      "badge_template": {
+        "alignments": [
+          {
+            "description": "Scrum is defined completely in the Scrum Guide by Ken Schwaber and Jeff Sutherland, the originators of Scrum.",
+            "id": "bb5246bf-95f0-4325-993a-06c2f7fa1b99",
+            "name": "The Scrum Guide",
+            "url": "https://www.scrum.org/resources/scrum-guide?utm_source=credly&utm_medium=PSDI"
+          },
+          {
+            "description": "Scrum.org created these Professional Scrum Competencies to help guide an individual’s personal development with Scrum.",
+            "id": "ab4eca3b-5bdf-4410-b84c-19a1583a269d",
+            "name": "The Professional Scrum Competencies",
+            "url": "https://www.scrum.org/professional-scrum-competencies?utm_source=credly&utm_medium=PSDI"
+          }
+        ],
+        "badge_template_activities": [
+          {
+            "activity_type": "Assessment",
+            "id": "d06a537d-85a1-4593-b9cc-c132b2de6663",
+            "required_badge_template_id": null,
+            "title": "The earner has passed the Professional Scrum Developer I (PSD I) certification assessment with a score of 85% or greater.",
+            "url": "https://www.scrum.org/resources/suggested-reading-professional-scrum-developer?utm_source=credly&utm_medium=PSDI"
+          }
+        ],
+        "cost": "Paid",
+        "description": "Those who earn the globally recognized Professional Scrum Developer I (PSD I) certification have demonstrated a fundamental level of professional software development, proving an understanding of the Scrum framework and how to work as part of a Scrum Team. This individual has also demonstrated an understanding of building useful and valuable Increments every Sprint and applying contemporary software engineering practices and tooling.",
+        "earn_this_badge_url": "https://www.scrum.org/professional-scrum-developer-certification?utm_source=credly&utm_medium=PSDI",
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": true,
+        "endorsements": [],
+        "global_activity_url": "https://www.scrum.org/professional-scrum-developer-certification?utm_source=credly&utm_medium=PSDI",
+        "id": "406798a8-4deb-460d-9b02-4aa06c656e07",
+        "image": {
+          "id": "d2298e82-b671-434a-876b-21a0ebc3af0e",
+          "url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"
+        },
+        "image_url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "82559f49-ab19-43af-aa5f-db3a1cc8efa7",
+                "internationalize_badge_templates": false,
+                "name": "Scrum.org",
+                "share_to_ziprecruiter": true,
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/82559f49-ab19-43af-aa5f-db3a1cc8efa7",
+                "vanity_url": "https://www.credly.com/org/scrum-org",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by Scrum.org"
+        },
+        "level": "Foundational",
+        "name": "Professional Scrum Developer™ I (PSD I)",
+        "owner_vanity_slug": "scrum-org",
+        "public": true,
+        "recipient_type": "User",
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "377d1202-560c-467b-b263-3bbb637667a4",
+            "name": "Agile",
+            "vanity_slug": "agile"
+          },
+          {
+            "id": "199ea79c-522a-4c45-b4cf-ab5592aaea05",
+            "name": "Developer",
+            "vanity_slug": "developer"
+          },
+          {
+            "id": "f9025ef4-6727-488a-a70b-b3021e457c6a",
+            "name": "Development",
+            "vanity_slug": "development"
+          },
+          {
+            "id": "e64b67f9-26f1-435e-b219-be5ab436c16d",
+            "name": "PSD",
+            "vanity_slug": "psd"
+          },
+          {
+            "id": "e9764be7-332b-4983-b79a-185b4e63f2f4",
+            "name": "Scrum",
+            "vanity_slug": "scrum"
+          },
+          {
+            "id": "b3259332-0bbf-4db2-afbe-744f131988fd",
+            "name": "Software",
+            "vanity_slug": "software"
+          },
+          {
+            "id": "f68a52ba-8508-49d0-a70d-a647e1cabfcb",
+            "name": "Software Development",
+            "vanity_slug": "software-development"
+          }
+        ],
+        "time_to_earn": null,
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/scrum-org/badge/professional-scrum-developer-i-psd-i",
+        "vanity_slug": "professional-scrum-developer-i-psd-i"
+      },
+      "earner_path": "/users/raffaele-intorcia",
+      "earner_photo_url": null,
+      "evidence": [
+        {
+          "description": null,
+          "id": "25c6f921-acc3-4db1-be76-df49c7e99af2",
+          "name": "Scrum.org User Profile",
+          "type": "UrlEvidence",
+          "value": "https://www.scrum.org/user-profile/unique-id/39d7503a-da8c-4002-ac89-47030f9a4d9e"
+        }
+      ],
+      "expires_at": null,
+      "expires_at_date": null,
+      "id": "1334f2ca-9928-4bcc-a8d0-320802363a89",
+      "image": {
+        "id": "d2298e82-b671-434a-876b-21a0ebc3af0e",
+        "url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"
+      },
+      "image_url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png",
+      "is_private_badge": false,
+      "issued_at": "2023-09-04T10:35:11.000-05:00",
+      "issued_at_date": "2023-09-04",
+      "issued_to": "Raffaele Intorcia",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "82559f49-ab19-43af-aa5f-db3a1cc8efa7",
+              "internationalize_badge_templates": false,
+              "name": "Scrum.org",
+              "share_to_ziprecruiter": true,
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/82559f49-ab19-43af-aa5f-db3a1cc8efa7",
+              "vanity_url": "https://www.credly.com/org/scrum-org",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by Scrum.org"
+      },
+      "last_updated_at": "2023-09-04T10:35:12.703-05:00",
+      "locale": "en",
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2023-09-04T10:35:12.827-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 1,
+    "count": 2,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 1,
+    "total_count": 2,
     "total_pages": 1
   }
 }
