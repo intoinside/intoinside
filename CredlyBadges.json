@@ -26,6 +26,7 @@
             "url": "https://www.scrum.org/resources/suggested-reading-professional-scrum-master?utm_source=credly&utm_medium=PSMI"
           }
         ],
+        "badge_template_earnable": true,
         "cost": "Paid",
         "description": "Those who earn the globally recognized Professional Scrum Master I (PSM I) certification have demonstrated a fundamental level of Scrum mastery, including the concepts of applying Scrum, and proven an understanding of Scrum as described in the Scrum Guide. This individual has also demonstrated a consistent use of terminology and approach to Scrum.",
         "earn_this_badge_url": "https://www.scrum.org/professional-scrum-master-i-certification?utm_source=credly&utm_medium=PSMI",
@@ -170,6 +171,7 @@
             "url": "https://www.scrum.org/resources/suggested-reading-professional-scrum-developer?utm_source=credly&utm_medium=PSDI"
           }
         ],
+        "badge_template_earnable": true,
         "cost": "Paid",
         "description": "Those who earn the globally recognized Professional Scrum Developer I (PSD I) certification have demonstrated a fundamental level of professional software development, proving an understanding of the Scrum framework and how to work as part of a Scrum Team. This individual has also demonstrated an understanding of building useful and valuable Increments every Sprint and applying contemporary software engineering practices and tooling.",
         "earn_this_badge_url": "https://www.scrum.org/professional-scrum-developer-certification?utm_source=credly&utm_medium=PSDI",
