@@ -10,6 +10,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ I speak 2 languages (Italian, English) and learning Klingon (yI'el! Qapla'!)
 
+<a href="https://ko-fi.com/S6S5RLDI5"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png" width="170"></a>
+
 ### 📫 Connect with me
 
 [![Connect on Instagram](https://img.shields.io/badge/Instagram-%23000000?logo=Instagram&logoColor=E4405F)][Instagram]
