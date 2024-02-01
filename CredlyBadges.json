@@ -64,6 +64,7 @@
         "owner_vanity_slug": "scrum-org",
         "public": true,
         "recipient_type": "User",
+        "recommendable": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -209,6 +210,7 @@
         "owner_vanity_slug": "scrum-org",
         "public": true,
         "recipient_type": "User",
+        "recommendable": true,
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
