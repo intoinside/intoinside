@@ -65,6 +65,38 @@
         "public": true,
         "recipient_type": "User",
         "recommendable": true,
+        "related_badge_templates": [
+          {
+            "id": "b4502ad4-2abe-4494-929c-401d61a8635f",
+            "image": {
+              "id": "72aa353c-8337-4a51-9c4a-97a1d2a8bb24",
+              "url": "https://images.credly.com/images/72aa353c-8337-4a51-9c4a-97a1d2a8bb24/image.png"
+            },
+            "image_url": "https://images.credly.com/images/72aa353c-8337-4a51-9c4a-97a1d2a8bb24/image.png",
+            "name": "Professional Scrum Master™ III (PSM III)",
+            "url": "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-iii-psm-iii"
+          },
+          {
+            "id": "b76143ef-3bf5-4200-bd04-87923ff7e4fc",
+            "image": {
+              "id": "d90cc9bc-3e9a-49b2-ac09-7930db400e32",
+              "url": "https://images.credly.com/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/image.png"
+            },
+            "image_url": "https://images.credly.com/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/image.png",
+            "name": "Professional Scrum Master™ II (PSM II)",
+            "url": "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-ii-psm-ii"
+          },
+          {
+            "id": "406798a8-4deb-460d-9b02-4aa06c656e07",
+            "image": {
+              "id": "d2298e82-b671-434a-876b-21a0ebc3af0e",
+              "url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png"
+            },
+            "image_url": "https://images.credly.com/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png",
+            "name": "Professional Scrum Developer™ I (PSD I)",
+            "url": "https://www.credly.com/org/scrum-org/badge/professional-scrum-developer-i-psd-i"
+          }
+        ],
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
@@ -211,6 +243,38 @@
         "public": true,
         "recipient_type": "User",
         "recommendable": true,
+        "related_badge_templates": [
+          {
+            "id": "313392c4-9b9d-4496-a1ba-3c598eeb33a3",
+            "image": {
+              "id": "ab5a94a3-3d62-4d02-a3c8-7a72524f4d12",
+              "url": "https://images.credly.com/images/ab5a94a3-3d62-4d02-a3c8-7a72524f4d12/image.png"
+            },
+            "image_url": "https://images.credly.com/images/ab5a94a3-3d62-4d02-a3c8-7a72524f4d12/image.png",
+            "name": "Scaled Professional Scrum™ (SPS)",
+            "url": "https://www.credly.com/org/scrum-org/badge/scaled-professional-scrum-sps"
+          },
+          {
+            "id": "33d486b3-aa97-4c95-9dd9-4e85f24621bf",
+            "image": {
+              "id": "a2790314-008a-4c3d-9553-f5e84eb359ba",
+              "url": "https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png"
+            },
+            "image_url": "https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png",
+            "name": "Professional Scrum Master™ I (PSM I)",
+            "url": "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-i-psm-i"
+          },
+          {
+            "id": "54d487f1-6775-46dd-b390-ba958fb8232b",
+            "image": {
+              "id": "c1247f46-35db-4092-b3d7-0c42628d4947",
+              "url": "https://images.credly.com/images/c1247f46-35db-4092-b3d7-0c42628d4947/image.png"
+            },
+            "image_url": "https://images.credly.com/images/c1247f46-35db-4092-b3d7-0c42628d4947/image.png",
+            "name": "Professional Agile Leadership™ - Evidence-Based Management™ (PAL-EBM)",
+            "url": "https://www.credly.com/org/scrum-org/badge/professional-agile-leadership-evidence-based-management-pal-ebm"
+          }
+        ],
         "show_badge_lmi": false,
         "show_skill_tag_links": true,
         "skills": [
