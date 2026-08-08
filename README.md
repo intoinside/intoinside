@@ -3,8 +3,8 @@
 ## I'm a Team Leader, Scrum Master, Indie Retrogame and Client/Web Software Developer!!
 - ✍ You can check my [blog](https://intoinside.github.io/) or find my projects in my [portfolio](https://intoinside.github.io/intoinside/)
 - 🚀 Here my [gist](https://gist.github.com/intoinside)
-- 🌱 Majoring in C#, studying for Scrum™ PSK I
-- 👨‍💻 Currently working in time sharing on [c128lib](https://github.com/c128lib), [RetroNET-BBS](https://github.com/intoinside/RetroNET-BBS) and [The Byteland Chronicles](https://github.com/The-Byteland-Chronicles)
+- 🌱 Majoring in C#, overwhelmed by the wave of AI
+- 👨‍💻 Currently working in time sharing on [c128lib](https://github.com/c128lib) and [The Byteland Chronicles](https://github.com/The-Byteland-Chronicles)
 - 👯 I’m looking to collaborate on open source software
 - 💬 Ask me about ... Anything
 - ⚡ I speak 2 languages (Italian, English)
@@ -37,6 +37,7 @@
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-%23000000.svg?logo=sublime-text&logoColor=important" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-000000.svg?logo=visual-studio&logoColor=5C2D91" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?logo=visual-studio-code&logoColor=0078d7" />
+  <img alt="Google Antigravity" src="https://img.shields.io/badge/Google%20Antigravity-000000.svg?logo=google-antigravity&logoColor=4286f4" />
 </p>
 
 <p>
