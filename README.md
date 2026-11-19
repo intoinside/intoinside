@@ -9,6 +9,8 @@
 - 💬 Ask me about ... Anything
 - ⚡ I speak 2 languages (Italian, English)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+
 <!--<a href="https://ko-fi.com/S6S5RLDI5"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png" width="170"></a>-->
 
 ### 📫 Connect with me
