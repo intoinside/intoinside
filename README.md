@@ -2,6 +2,7 @@
 
 ## I'm a Team Leader, Scrum Master, Indie Retrogame and Client/Web Software Developer!!
 - ✍ You can check my [blog](https://intoinside.github.io/) or find my projects in my [portfolio](https://intoinside.github.io/intoinside/)
+- 📖 Check my ebook "Otto bit e zero scusa. Guida definitiva al processore 6502" on [Amazon](https://www.amazon.it/dp/B0HS8V6DVB)
 - 🚀 Here my [gist](https://gist.github.com/intoinside)
 - 🌱 Majoring in C#, overwhelmed by the wave of AI
 - 👨‍💻 Currently working in time sharing on [c128lib](https://github.com/c128lib) and [The Byteland Chronicles](https://github.com/The-Byteland-Chronicles)
@@ -9,9 +10,9 @@
 - 💬 Ask me about ... Anything
 - ⚡ I speak 2 languages (Italian, English)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/raffaeleinr)
+If you enjoy what I do, buy me a coffee!
 
-<!--<a href="https://ko-fi.com/S6S5RLDI5"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png" width="170"></a>-->
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/raffaeleinr)
 
 ### 📫 Connect with me
 
